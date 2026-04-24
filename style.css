@@ -1,0 +1,38 @@
+ul#sort li{
+    background-color: lightblue;
+    margin-bottom: 15px;
+    padding: 15px;
+    color: white;
+    list-style-type: none;
+}
+
+#resizeableBox{
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#draggable{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#droppable{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
