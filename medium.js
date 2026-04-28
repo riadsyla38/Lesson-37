@@ -1,0 +1,1 @@
+$('#resizableBox').resizable();
